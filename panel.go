@@ -2,12 +2,12 @@ package v2ray_sspanel_v3_mod_Uim_plugin
 
 import (
 	"fmt"
-	"github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/Manager"
-	"github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/client"
-	"github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/config"
-	"github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/model"
-	"github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/speedtest"
-	"github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/webapi"
+	"github.com/mhchen0219/v2ray-sspanel-v3-mod_Uim-plugin/tree/master/Manager"
+	"github.com/mhchen0219/v2ray-sspanel-v3-mod_Uim-plugin/tree/master/client"
+	"github.com/mhchen0219/v2ray-sspanel-v3-mod_Uim-plugin/tree/master/config"
+	"github.com/mhchen0219/v2ray-sspanel-v3-mod_Uim-plugin/tree/master/model"
+	"github.com/mhchen0219/v2ray-sspanel-v3-mod_Uim-plugin/tree/master/speedtest"
+	"github.com/mhchen0219/v2ray-sspanel-v3-mod_Uim-plugin/tree/master/webapi"
 	"github.com/robfig/cron"
 	"google.golang.org/grpc"
 	"reflect"
