@@ -2,9 +2,9 @@ package v2ray_sspanel_v3_mod_Uim_plugin
 
 import (
 	"fmt"
-	"github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/client"
-	"github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/config"
-	"github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/webapi"
+	"github.com/mhchen0219/v2ray-sspanel-v3-mod_Uim-plugin/tree/master/client"
+	"github.com/mhchen0219/v2ray-sspanel-v3-mod_Uim-plugin/tree/master/config"
+	"github.com/mhchen0219/v2ray-sspanel-v3-mod_Uim-plugin/tree/master/webapi"
 	"google.golang.org/grpc/status"
 	"os"
 	"runtime"
