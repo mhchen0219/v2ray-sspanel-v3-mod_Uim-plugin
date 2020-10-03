@@ -7,7 +7,7 @@
     header_upstream -Origin
   }
   gzip
-  tls {$V2RAY_EMAIL} {
+  tls ~/ssl/vir25.igtool123.tk.crt ~/vir25.igtool123.tk.key {
     protocols tls1.2 tls1.3
     # remove comment if u want to use cloudflare (for DNS challenge authentication)
     # dns cloudflare
