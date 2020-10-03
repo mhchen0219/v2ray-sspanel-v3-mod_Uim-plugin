@@ -7,5 +7,5 @@
     header_upstream -Origin
   }
   gzip
-  tls /path/ssl/vir25.igtool123.tk.crt /path/ssl/vir25.igtool123.tk.key
+  tls /v2ray/vir25.igtool123.tk.crt /v2ray/vir25.igtool123.tk.key
 }
